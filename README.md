@@ -21,7 +21,7 @@ Hello, I'm Yun Woo Seop, a passionate backend developer living in Korea.
 
 Languages and Tools:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=definity-smileY&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=definity-smileY&show_icons=true&theme=merko)
 
 
 
