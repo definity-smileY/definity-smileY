@@ -19,6 +19,12 @@ Hello, I'm Yun Woo Seop, a passionate backend developer living in Korea. <br>
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=flat-square&logo=nginx&logoColor=white"/>&nbsp;&nbsp;
 </p>
+<p align="center">
+  <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Mysql%20-%23F37626.svg?&style=flat-square&logo=Mysql&logoColor=white" />&nbsp;&nbsp;
+</p>
+
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=definity-smileY&show_icons=true&theme=radical)
