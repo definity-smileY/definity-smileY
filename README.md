@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=wusup%20Yun&fontSize=90)
+
 ### Hi there, I'm Yun!👋
 
 <!--
