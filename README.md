@@ -9,4 +9,6 @@ Hello, I'm Yun Woo Seop, a passionate backend developer living in Korea. <br>
 - 📫 How to reach me: <yysdntjq@naver.com> <br>
 </p>
 
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=definity-smileY&show_icons=true&theme=radical)
+</p>
