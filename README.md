@@ -3,10 +3,10 @@
 <h3 align="center"> 👋 Hi there,</h3>
 
 <p align="center">
-Hello, I'm Yun Woo Seop, a passionate backend developer living in Korea.
-- 🔭 I’m currently working on Algorithms and Architecture in progress
-- 🌱 I’m currently learning Python3
-- 📫 How to reach me: <yysdntjq@naver.com>  
+Hello, I'm Yun Woo Seop, a passionate backend developer living in Korea. <br>
+- 🔭 I’m currently working on Algorithms and Architecture in progress <br>
+- 🌱 I’m currently learning Python3 <br>
+- 📫 How to reach me: <yysdntjq@naver.com> <br>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=definity-smileY&show_icons=true&theme=radical)
