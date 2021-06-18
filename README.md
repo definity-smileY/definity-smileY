@@ -15,6 +15,7 @@ Hello, I'm Yun Woo Seop, a passionate backend developer living in Korea. <br>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Flask-3766AB?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=flat-square&logo=nginx&logoColor=white"/>&nbsp;&nbsp;
 </p>
