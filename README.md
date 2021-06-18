@@ -22,7 +22,7 @@ Hello, I'm Yun Woo Seop, a passionate backend developer living in Korea. <br>
 <p align="center">
   <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Mysql%20-%23F37626.svg?&style=flat-square&logo=Mysql&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Mysql%20-%23326ce5.svg?&style=flat-square&logo=Mysql&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
