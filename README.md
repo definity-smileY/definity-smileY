@@ -6,7 +6,6 @@
 Hello, I'm Yun Woo Seop, a passionate backend developer living in Korea. <br>
 - 🔭 I’m currently working on Algorithms and Architecture in progress <br>
 - 🌱 I’m currently learning Python3 <br>
-- 📫 How to reach me: <yysdntjq@naver.com> <br>
 </p>
 
 <h3 align="center">✨ Tech Stack ✨ </h3>
@@ -25,6 +24,11 @@ Hello, I'm Yun Woo Seop, a passionate backend developer living in Korea. <br>
     <img src="https://img.shields.io/badge/Mysql%20-%23326ce5.svg?&style=flat-square&logo=Mysql&logoColor=white" />&nbsp;&nbsp;
 </p>
 
+<h3 align="center">•••</h3>
+<p align="center" align="right">
+  <a target="_blank" href="https://blog.naver.com/yysdntjq"><img src="http://img.shields.io/badge/Blog-green?style=flat-square&logo=NAVER&locoColor=white"</a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://metleeha.tistory.com"><img src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=flat-square&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</p>
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=definity-smileY&show_icons=true&theme=radical)
