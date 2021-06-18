@@ -1,25 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=wusup%20Yun&fontSize=90)
 
-### Hi there, I'm Yun!👋
+<h3 align="center"> 👋 Hi there,</h3>
 
-<!--
-**definity-smileY/definity-smileY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
 Hello, I'm Yun Woo Seop, a passionate backend developer living in Korea.
 - 🔭 I’m currently working on Algorithms and Architecture in progress
 - 🌱 I’m currently learning Python3
-- 📫 How to reach me: <yysdntjq@naver.com>
-
+- 📫 How to reach me: <yysdntjq@naver.com>  
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=definity-smileY&show_icons=true&theme=radical)
