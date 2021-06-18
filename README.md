@@ -3,7 +3,7 @@
 <h3 align="center"> 👋 Hi there,</h3>
 
 <p align="center">
-Hello, I'm Yun Woo Seop, a passionate backend developer living in Korea. <br>
+Hello, I'm Yun Wu Seop, a passionate backend developer living in Korea. <br>
 - 🔭 I’m currently working on Algorithms and Architecture in progress <br>
 - 🌱 I’m currently learning Python3 <br>
 </p>
