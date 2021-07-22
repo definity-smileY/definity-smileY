@@ -9,9 +9,12 @@ Hello, I'm Yun Woo Seop, a passionate backend developer living in Korea. <br>
 </p>
 
 <h3 align="center">✨ Tech Stack ✨ </h3>
+<!-- <img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/> -->
+### Language
 <p align="center">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=White"/>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Flask-3766AB?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
