@@ -7,32 +7,32 @@
 
 # ✨ Tech Stack ✨ 
 ### Language
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933?&style=for-the-badge&logo=Node.js&logoColor=white"/>
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=Java&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white"/></a>
+<img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933?&style=for-the-badge&logo=Node.js&logoColor=white"/></a>
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=Java&logoColor=white"/></a>
 
 ### Web Framework & Library
-<img alt="Django" src ="https://img.shields.io/badge/Django-092E20?&style=for-the-badge&logo=Django&logoColor=white"/>
-<img alt="Flask" src ="https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=flask&logoColor=white"/>
-<img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688?&style=for-the-badge&logo=FastAPI&logoColor=white"/>
-<img alt="Spring" src ="https://img.shields.io/badge/spring-6DB33F?&style=for-the-badge&logo=spring&logoColor=white"/>
-<img alt="Express" src ="https://img.shields.io/badge/express-000000?&style=for-the-badge&logo=express&logoColor=white"/>
+<img alt="Django" src ="https://img.shields.io/badge/Django-092E20?&style=for-the-badge&logo=Django&logoColor=white"/></a>
+<img alt="Flask" src ="https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=flask&logoColor=white"/></a>
+<img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688?&style=for-the-badge&logo=FastAPI&logoColor=white"/></a>
+<img alt="Spring" src ="https://img.shields.io/badge/spring-6DB33F?&style=for-the-badge&logo=spring&logoColor=white"/></a>
+<img alt="Express" src ="https://img.shields.io/badge/express-000000?&style=for-the-badge&logo=express&logoColor=white"/></a>
 
 ### Database
-<img alt="Mysql" src ="https://img.shields.io/badge/Mysql-4479A1?&style=for-the-badge&logo=Mysql&logoColor=white"/>
-<img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000?&style=for-the-badge&logo=Oracle&logoColor=white"/>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
+<img alt="Mysql" src ="https://img.shields.io/badge/Mysql-4479A1?&style=for-the-badge&logo=Mysql&logoColor=white"/></a>
+<img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000?&style=for-the-badge&logo=Oracle&logoColor=white"/></a>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white"/></a>
 
 ### Cloud & Deployment
-<img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=Amazonaws&logoColor=white"/>
-<img alt="NGINX" src ="https://img.shields.io/badge/NGINX-009639?&style=for-the-badge&logo=NGINX&logoColor=white"/>
-<img alt="Gunicorn" src ="https://img.shields.io/badge/Gunicorn-009639?&style=for-the-badge&logo=Gunicorn&logoColor=white"/>
-<img alt="uWsgi" src ="https://img.shields.io/badge/uWsgi-009639?&style=for-the-badge&logo=uWsgi&logoColor=white"/>
-<img alt="ApacheTomcat" src ="https://img.shields.io/badge/ApacheTomcat-F8DC75?&style=for-the-badge&logo=ApacheTomcat&logoColor=white"/>
+<img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=Amazonaws&logoColor=white"/></a>
+<img alt="NGINX" src ="https://img.shields.io/badge/NGINX-009639?&style=for-the-badge&logo=NGINX&logoColor=white"/></a>
+<img alt="Gunicorn" src ="https://img.shields.io/badge/Gunicorn-009639?&style=for-the-badge&logo=Gunicorn&logoColor=white"/></a>
+<img alt="uWsgi" src ="https://img.shields.io/badge/uWsgi-009639?&style=for-the-badge&logo=uWsgi&logoColor=white"/></a>
+<img alt="ApacheTomcat" src ="https://img.shields.io/badge/ApacheTomcat-F8DC75?&style=for-the-badge&logo=ApacheTomcat&logoColor=white"/></a>
 
 ### blog & mail
-<a target="_blank" href="https://blog.naver.com/yysdntjq"><img alt="naver" src ="https://img.shields.io/badge/blog-03C75A?&style=for-the-badge&logo=naver&logoColor=white"/>
-<a target="_blank" href="mailto:yysdntjq@gmail.com?subject=Hello%20Yun,%20From%20Github"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+<a target="_blank" href="https://blog.naver.com/yysdntjq"><img alt="naver" src ="https://img.shields.io/badge/blog-03C75A?&style=for-the-badge&logo=naver&logoColor=white"/></a>
+<a target="_blank" href="mailto:yysdntjq@gmail.com?subject=Hello%20Yun,%20From%20Github"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=definity-smileY&show_icons=true&theme=radical)
