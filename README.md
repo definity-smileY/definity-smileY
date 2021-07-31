@@ -41,5 +41,5 @@
 # 2021년도 공부, 목표
 - 🔭 I’m currently working on Algorithms and Architecture in progress <br>
 - 🌱 I’m currently learning Python3 <br>
-- 🌱 I’m currently learning Docker <br>
-- 🌱 I’m currently learning Kubernetes <br>
+- 🌱 I’m currently learning java & Spring boot<br>
+- 🌱 I’m currently learning Docker & Kubernetes <br>
