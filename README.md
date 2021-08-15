@@ -34,10 +34,12 @@
 <a target="_blank" href="https://blog.naver.com/yysdntjq"><img alt="naver" src ="https://img.shields.io/badge/blog-03C75A?&style=for-the-badge&logo=naver&logoColor=white"/></a>
 <a target="_blank" href="mailto:yysdntjq@gmail.com?subject=Hello%20Yun,%20From%20Github"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=definity-smileY&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=definity-smileY&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=definity-smileY&show_icons=true&theme=radical&)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=definity-smileY&show_icons=true&layout=compact&theme=radical&hide=Shell,Batchifile,PowerShell&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 # 2021년도 공부, 목표
 - 🔭 I’m currently working on Algorithms and Architecture in progress <br>
 - 🌱 I’m currently learning Python3 <br>
