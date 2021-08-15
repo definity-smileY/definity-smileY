@@ -44,4 +44,4 @@
 - 🔭 I’m currently working on Algorithms and Architecture in progress <br>
 - 🌱 I’m currently learning Python3 <br>
 - 🌱 I’m currently learning java & Spring boot<br>
-- 🌱 I’m currently learning Docker & Kubernetes <br>
+- 🌱 I’m currently learning vue.js & TypeScript <br>
