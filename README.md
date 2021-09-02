@@ -42,6 +42,6 @@
 </div>
 # 2021년도 공부, 목표
 - 🔭 I’m currently working on Algorithms and Architecture in progress <br>
-- 🌱 I’m currently learning Python3 <br>
-- 🌱 I’m currently learning java & Spring boot<br>
-- 🌱 I’m currently learning vue.js & TypeScript <br>
+- 🌱 I’m currently learning Python3 / asyncio <br>
+- 🌱 I’m currently learning insanic & sanic<br>
+- 🌱 I’m currently learning CS <br>
