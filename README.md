@@ -8,7 +8,6 @@
 # ✨ Tech Stack ✨ 
 ### Language
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white"/></a>
-<img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933?&style=for-the-badge&logo=Node.js&logoColor=white"/></a>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=Java&logoColor=white"/></a>
 
 ### Web Framework & Library
@@ -16,7 +15,6 @@
 <img alt="Flask" src ="https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=flask&logoColor=white"/></a>
 <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688?&style=for-the-badge&logo=FastAPI&logoColor=white"/></a>
 <img alt="Spring" src ="https://img.shields.io/badge/spring-6DB33F?&style=for-the-badge&logo=spring&logoColor=white"/></a>
-<img alt="Express" src ="https://img.shields.io/badge/express-000000?&style=for-the-badge&logo=express&logoColor=white"/></a>
 
 ### Database
 <img alt="Mysql" src ="https://img.shields.io/badge/Mysql-4479A1?&style=for-the-badge&logo=Mysql&logoColor=white"/></a>
