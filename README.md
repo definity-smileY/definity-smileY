@@ -8,25 +8,20 @@
 # ✨ Tech Stack ✨ 
 ### Language
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white"/></a>
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=Java&logoColor=white"/></a>
 
 ### Web Framework & Library
 <img alt="Django" src ="https://img.shields.io/badge/Django-092E20?&style=for-the-badge&logo=Django&logoColor=white"/></a>
 <img alt="Flask" src ="https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=flask&logoColor=white"/></a>
 <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688?&style=for-the-badge&logo=FastAPI&logoColor=white"/></a>
-<img alt="Spring" src ="https://img.shields.io/badge/spring-6DB33F?&style=for-the-badge&logo=spring&logoColor=white"/></a>
 
 ### Database
 <img alt="Mysql" src ="https://img.shields.io/badge/Mysql-4479A1?&style=for-the-badge&logo=Mysql&logoColor=white"/></a>
-<img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000?&style=for-the-badge&logo=Oracle&logoColor=white"/></a>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white"/></a>
 
 ### Cloud & Deployment
 <img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=Amazonaws&logoColor=white"/></a>
 <img alt="NGINX" src ="https://img.shields.io/badge/NGINX-009639?&style=for-the-badge&logo=NGINX&logoColor=white"/></a>
 <img alt="Gunicorn" src ="https://img.shields.io/badge/Gunicorn-009639?&style=for-the-badge&logo=Gunicorn&logoColor=white"/></a>
 <img alt="uWsgi" src ="https://img.shields.io/badge/uWsgi-009639?&style=for-the-badge&logo=uWsgi&logoColor=white"/></a>
-<img alt="ApacheTomcat" src ="https://img.shields.io/badge/ApacheTomcat-F8DC75?&style=for-the-badge&logo=ApacheTomcat&logoColor=white"/></a>
 
 ### blog & mail
 <a target="_blank" href="https://blog.naver.com/yysdntjq"><img alt="naver" src ="https://img.shields.io/badge/blog-03C75A?&style=for-the-badge&logo=naver&logoColor=white"/></a>
@@ -38,8 +33,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=definity-smileY&show_icons=true&layout=compact&theme=radical&hide=Shell,Batchifile,PowerShell&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-# 2021년도 공부, 목표
+# 2022년도 공부, 목표
 - 🔭 I’m currently working on Algorithms and Architecture in progress <br>
-- 🌱 I’m currently learning Python3 / asyncio <br>
-- 🌱 I’m currently learning insanic & sanic<br>
-- 🌱 I’m currently learning CS <br>
+- 🌱 I’m currently learning Python3 High Performance <br>
+- 🌱 I’m currently learning Computer Computer science <br>
