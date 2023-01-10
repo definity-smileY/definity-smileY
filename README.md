@@ -1,6 +1,4 @@
-# ☺️ 소개 & 가치관
-똑똑하지않아서 남들보다 더 노력해야하는 사람이란걸 인정하고 노력하는 백엔드 개발자입니다.<br>
-소프트웨어적인 사고를 갖기 위해 하드웨어적인 사고를 벗어나려 노력하는 백엔드 개발자입니다.<br>
+#  Introduce
 개인의 성장만큼 조직의 성장으로 보여지는 것을 지향하는 백엔드 개발자입니다.<br>
 
 > "나무를 보지말고 숲을 봐라" 라는 속담이 있지만 나무의 뿌리(원리,근본)를 이해하고 숲을 볼 수 있는 안목을 기르려 노력합니다.
@@ -33,7 +31,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=definity-smileY&show_icons=true&layout=compact&theme=radical&hide=Shell,Batchifile,PowerShell&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-# 2022년도 공부, 목표
-- 🔭 I’m currently working on Algorithms and Architecture in progress <br>
-- 🌱 I’m currently learning Python3 High Performance <br>
-- 🌱 I’m currently learning Computer Computer science <br>
