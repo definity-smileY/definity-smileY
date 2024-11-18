@@ -2,7 +2,7 @@
 ### Language
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white"/></a>
 
-### Web Framework & Library
+### Web Framework
 <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688?&style=for-the-badge&logo=FastAPI&logoColor=white"/></a>
 <img alt="Django" src ="https://img.shields.io/badge/Django-092E20?&style=for-the-badge&logo=Django&logoColor=white"/></a>
 <img alt="Flask" src ="https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=flask&logoColor=white"/></a>
